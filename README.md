@@ -68,5 +68,6 @@ Our solution bridges the digital and physical world using a secure, verified wor
    ```
 
 ## 🔗 Live Demo
+https://lost-and-found-portal-540b9.web.app
 
-[Add your live demo link here]
+
